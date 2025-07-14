@@ -1,18 +1,8 @@
 
-Configuration/flexibleWork/flexibleWork.xcodeproj/project.xcworkspace/xcuserdata/wooseob.xcuserdatad/UserInterfaceState.xcuserstate
+*.xcuserstate
 
-택배상자꺼내기/solve/solve.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.plist
 
-Configuration/flexibleWork/flexibleWork.xcodeproj/xcuserdata/wooseob.xcuserdatad/xcschemes/xcschememanagement.plist
+*.xcworkspacedata
 
-Configuration/flexibleWork/flexibleWork.xcodeproj/project.xcworkspace/contents.xcworkspacedata
-
-Configuration/flexibleWork/flexibleWork.xcodeproj/project.pbxproj
-
-Configuration/deliveryBox/solve.xcodeproj/xcuserdata/wooseob.xcuserdatad/xcschemes/xcschememanagement.plist
-
-Configuration/deliveryBox/solve.xcodeproj/project.xcworkspace/xcuserdata/wooseob.xcuserdatad/UserInterfaceState.xcuserstate
-
-Configuration/deliveryBox/solve.xcodeproj/project.xcworkspace/contents.xcworkspacedata
-
-Configuration/deliveryBox/solve.xcodeproj/project.pbxproj
+*.pbxproj
